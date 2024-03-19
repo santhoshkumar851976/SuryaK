@@ -2,8 +2,9 @@
 int main()
 {
     int x,num,rem,total=0;
-    num=153;
     x=num;
+    num=153;
+    
     while(num>0)
 {
     rem=num%10;
